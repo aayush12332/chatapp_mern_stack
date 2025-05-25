@@ -19,7 +19,6 @@ Install dependencies:
 For the backend: cd Backend npm install
 
 For the frontend: cd Frontend npm install
-
 Set up environment variables: Create a .env file in the backend directory
 
 Run the application:
