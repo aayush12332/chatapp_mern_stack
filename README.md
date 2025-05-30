@@ -23,7 +23,7 @@ Set up environment variables: Create a .env file in the backend directory
 
 Run the application:
 
-Backend: cd Backend npm start
+Backend: cd Backend npm start 
 
 Frontend: cd Frontend npm run dev
 
